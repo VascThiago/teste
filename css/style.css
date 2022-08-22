@@ -1,0 +1,20 @@
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p {
+    margin: 40px 0;
+    padding: 20px;
+}
+
+.p1 {
+    background: #F5F5F5;
+}
+
+.p2 {
+    background: #F0CCE2;
+}
